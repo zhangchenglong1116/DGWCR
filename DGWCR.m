@@ -1,5 +1,5 @@
 
-%"Medical Hyperspectral Band Selection Using Ranking Based on Data Gravitation and Weak Correlation"
+%"Unsupervised Band selection of Medical Hyperspectral Image Guided by Data Gravitation and Weak Correlation"
 
 % Input:
 % pre     - Raw image data(Preferably normalized), size=A*B, note: A is the number of pixels, B is the number of bands.
